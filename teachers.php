@@ -22,7 +22,7 @@
 	
 	<!-- Menu -->
 	<?php
-    include('./components/teachers/menu.php');
+    include('./components/common/menu.php');
     ?>
 	
 	<!-- Home -->
