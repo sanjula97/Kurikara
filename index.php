@@ -23,7 +23,7 @@
 		<?php
 		include('./components/common/header.php');
 		//  Menu
-		include('./components/index/menu.php');
+		include('./components/common/menu.php');
 		//  Home
 		include('./components/index/home.php');
 		//  Popular

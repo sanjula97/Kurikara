@@ -1,6 +1,6 @@
-<?php
+<!-- <?php
 require('./db.php/db.php');
-?>
+?> -->
 <header class="header d-flex flex-row">
 	<div class="header_content d-flex flex-row align-items-center">
 		<!-- Logo -->
@@ -37,8 +37,8 @@ require('./db.php/db.php');
 
 </header>
 
-<?php
+<!-- <?php
 $query = "INSERT INTO test (test) VALUES ('Test')";
 
 $result = mysqli_query($con, $query);
-?>
+?> -->

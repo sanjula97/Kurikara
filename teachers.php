@@ -49,7 +49,7 @@
         
 
 	<!-- Footer -->
-<?php
+    <?php
 	include('./components/common/footer.php');
 	?>
 
